@@ -1,6 +1,6 @@
 # Hi, I'm Kalpesh Jangir! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🚀+Aspiring+AI+and+Flutter+Developer;📱+App+Innovator;💻+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🚀+Flutter+Developer;📱+App+Innovator;💻+Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:kalpeshjangirrukk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
