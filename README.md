@@ -22,6 +22,11 @@
   <em>🧠 Enthusiastic learner, always exploring emerging technologies.</em>
 </p>
 
+
+## 📄 Resume
+[**Resume (PDF)**](https://drive.google.com/file/d/1Ziucw4mZOcxGPHxDj2BcsFbUmgqgQH82/view?usp=sharing)
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
