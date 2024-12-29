@@ -24,7 +24,7 @@
 
 
 ## 📄 Resume
-[**Resume (PDF)**](https://drive.google.com/file/d/1Ziucw4mZOcxGPHxDj2BcsFbUmgqgQH82/view?usp=sharing)
+ <a href="https://drive.google.com/file/d/1Ziucw4mZOcxGPHxDj2BcsFbUmgqgQH82/view?usp=sharing" target="_blank"><strong>Resume (PDF)</strong></a>
 
 
 ## 📊 GitHub Analytics
