@@ -35,7 +35,11 @@
 ---
 
 ## 📊 GitHub Analytics
-
+<p align="center">
+  <a href="https://github.com/KalpeshJangir23">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalpeshJangir23&theme=radical" alt="Kalpesh Jangir"/>
+  </a>
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalpeshJangir23&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KalpeshJangir23&theme=radical&show_icons=true"/>
