@@ -69,10 +69,15 @@
 | [**Ayuda**](https://github.com/KalpeshJangir23/Rubix-23-28-the_iterators)                       | Mental health support app with personalized tasks and professional consultations.                    | Flutter, Python, Firebase |
 
 ---
+Here’s the updated experience section sorted by year:  
 
-## 💼 Professional Experience
+---
 
-| **Company**                     | **Role**              | **Duration**               | **Key Contributions**                                                                                                           |
-|----------------------------------|-----------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **StayWise**                    | Flutter Intern       | May 2023 – Aug 2023        | Built features to enhance user experience for student accommodation app using Flutter & Riverpod.                              |
-| **Yatri Car Rental**            | Flutter Intern       | Aug 2024 – Oct 2024        | Improved UI components and implemented features to enhance taxi service app performance.                                       |
+## 💼 Professional Experience  
+
+| **Company**                     | **Role**              | **Duration**               | **Key Contributions**                                                                                                           |  
+|----------------------------------|-----------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|  
+| **Kartavya Technology (TerraBiz Pvt Ltd (TTPL))** | SDE Intern | Jan 2025 – Feb 2025 | Developed the complete Employee Service section, including Leave, Gate Pass, Debit, and Advance management. Built an employee tree structure and worked with REST APIs & BLoC in Flutter. |  
+| **Yatri Car Rental**            | Flutter Intern       | Aug 2024 – Oct 2024        | Improved UI components and implemented features to enhance taxi service app performance.                                       |  
+| **StayWise**                    | Flutter Intern       | May 2023 – Aug 2023        | Built features to enhance user experience for student accommodation app using Flutter & Riverpod.                              |  
+
