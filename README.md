@@ -41,9 +41,12 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/KalpeshJangir23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalpeshJangir23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/KalpeshJangir23">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KalpeshJangir23&theme=radical&show_icons=true"/>
-  
+  </a>
 </p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KalpeshJangir23&bg_color=0d1117&color=00fffc&line=00fffc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
