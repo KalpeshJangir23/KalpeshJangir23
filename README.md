@@ -30,7 +30,7 @@
 
 ## 📄 Resume
 
-[**Resume (PDF)**](https://drive.google.com/file/d/1Ziucw4mZOcxGPHxDj2BcsFbUmgqgQH82/view?usp=sharing)
+[**Resume (PDF)**](https://drive.google.com/file/d/1PHos-PB3C4iCz4zmEK207FD0Ei3gDnj3/view?usp=sharing)
 
 ---
 
