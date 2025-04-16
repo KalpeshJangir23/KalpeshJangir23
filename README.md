@@ -20,12 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=KalpeshJangir23&color=orange&style=flat-square" alt="Kalpesh Jangir" /> 
 </p>
 
-<p align="center">
-  <em>🌟 Passionate about creating user-focused applications and solving real-world challenges through code.</em><br>
-  <em>🧠 Enthusiastic learner, always exploring emerging technologies.</em>
-</p>
-
-
 ---
 
 ## 📄 Resume
