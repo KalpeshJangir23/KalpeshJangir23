@@ -66,8 +66,6 @@
 | [**Ayuda**](https://github.com/KalpeshJangir23/Rubix-23-28-the_iterators)                       | Mental health support app with personalized tasks and professional consultations.                    | Flutter, Python, Firebase |
 
 ---
-Here’s the updated experience section sorted by year:  
-
 ---
 
 ## 💼 Professional Experience  
